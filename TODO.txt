@@ -1,0 +1,3 @@
+- make change detection modular in order to make it easier to support different versions of the media wiki or even other wiki systems.
+- templates for HTML pages
+- ???
